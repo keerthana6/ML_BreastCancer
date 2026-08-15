@@ -26,7 +26,7 @@ model can support early diagnosis and triage.
 
 ## c. GitHub Repository Link
 
-> **TODO — paste your GitHub repo URL here after pushing** (see push steps below)
+> https://github.com/keerthana6/ML_BreastCancer
 
 ## d. Models Used
 
@@ -90,4 +90,4 @@ streamlit run app.py
 
 ## Live App Link
 
-> (https://github.com/keerthana6/ML_BreastCancer)
+> https://breast-cancer-ml-assign.streamlit.app/
